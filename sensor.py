@@ -52,7 +52,6 @@ class Sensor:
   
         
 sensor1 = Sensor('Humidity', 60)
-sensor2 = Sensor("Temperature",25)
 sensor1.log_reading()
 sensor1.log_reading()
 sensor1.print_value()
