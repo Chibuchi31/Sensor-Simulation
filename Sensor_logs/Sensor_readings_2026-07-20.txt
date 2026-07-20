@@ -1,0 +1,4 @@
+sensor6 Distance readings: 89.91,20.0,8.27,41.58,66.68
+sensor7 Light readings: 23.9,39.65,31.26
+sensor6 Distance readings: 1.08,24.12,73.86,15.02,42.38
+sensor7 Light readings: 66.89,49.18,47.71
